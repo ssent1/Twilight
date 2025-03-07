@@ -48,8 +48,9 @@
 [5]: http://veli.ee/colorpedia/ "colorpedia"
 [6]: https://spec.draculatheme.com/ "Dracula Syntax Highlighting Specification"
 [7]: https://draculatheme.com/contribute/ "Contribute — The color palette of the Dracula theme"
+[8]: https://misc.flogisoft.com/bash/tip_colors_and_formatting "Bash tips: Colors and formatting (ANSI/VT100 Control sequences)"
 
 Tags: 
 
 ^ 2020-04-27T13:25:51-0500\
-% 2025-03-07T13:23:43-0500
+% 2025-03-07T13:36:02-0500
