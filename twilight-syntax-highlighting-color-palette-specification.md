@@ -1,4 +1,7 @@
+# Twilight Syntax Highlighting Color Palette Specification
+
 ## Standard
+
 | Dracula    |  HEX_d  | Twiglight | HEX_t           |
 |:-----------|:-------:|:---------:|:----------------|
 | Background | #282A36 |  #E7E9EB  | Platinum        |
@@ -15,6 +18,7 @@
 | Pink       |      #FF79C6       || Persian Pink    |
 
 ## ANSI
+
 | ANSI       |  hex_a  |    | Twiglight              |
 |:-----------|:-------:|---:|:-----------------------|
 | Black      | #21222C |    | Raisin Black           |
@@ -35,12 +39,8 @@
 | ⁎Magenta   | #FF92DF |    | Orchid (Crayola)       |
 | ⁎White     | #FFFFFF |    | White                  |
 
-
-
-
-
-!--- RESOURCES & SOURCES -->
-
+- - -
+<!-- sources -->
 [1]: https://spec.draculatheme.com/sec-Standard "Dracula Syntax Highlighting Specification"
 [2]: https://coolors.co/ "Color palette generator"
 [3]: http://www.perbang.dk/rgb/#282a36/
@@ -48,3 +48,8 @@
 [5]: http://veli.ee/colorpedia/ "colorpedia"
 [6]: https://spec.draculatheme.com/ "Dracula Syntax Highlighting Specification"
 [7]: https://draculatheme.com/contribute/ "Contribute — The color palette of the Dracula theme"
+
+Tags: 
+
+^ 2020-04-27T13:25:51-0500\
+% 2025-03-07T13:23:43-0500
